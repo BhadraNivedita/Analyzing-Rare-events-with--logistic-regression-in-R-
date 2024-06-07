@@ -1,3 +1,3 @@
-# Rare event logistic regression 
+#Analyzing  Rare events with  logistic regression 
 
 
